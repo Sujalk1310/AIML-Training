@@ -1,0 +1,17 @@
+%matplotlib inline - Creates a grid for each plot so that it can be represented the same on different machines
+
+beautifulshop (WebScrapping Tool)
+
+pairplot - analysis of all the columns as graphs in a paired manner (Seaborn)
+
+distplot - Frequency Distribution (Seaborn)
+
+heatmap - relativity between each column (Seaborn) correlation
+
+
+
+
+
+
+
+
