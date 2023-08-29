@@ -1,0 +1,26 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>
+            Hello *
+        </pattern>
+        <template>
+            Hello, DedSec
+        </template>
+    </category>
+    <category>
+        <pattern>
+            What are you
+        </pattern>
+        <template>
+            I'm a bot, and I'm silly
+        </template>
+    </category>
+    <category>
+        <pattern>
+            Mathura
+        </pattern>
+        <template>
+            Uttar Pradesh India
+        </template>
+    </category>
+</aiml>

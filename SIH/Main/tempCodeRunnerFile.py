@@ -1,0 +1,1 @@
+kernel = np.ones((2, 1), np.uint8)

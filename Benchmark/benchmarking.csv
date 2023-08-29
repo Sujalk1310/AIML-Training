@@ -1,0 +1,13 @@
+Model,benchmark_parameter,With_ONEAPI,WITHOUT_ONEAPI
+Mental Health Chatbot,Inference_Speed,20.4805350139762,8.597579036546492
+Mental Health Chatbot,Latency,0.0488268494606018,0.1163118124008178
+Mental Health Chatbot,Throughput,20.4805350139762,8.597579036546492
+Mental Health Chatbot,Training_Time,16.079952716827393,20.86955761909485
+Gamification (Face Pose),Inference_Speed,0.8333345320506914,0.8221085558433429
+Gamification (Face Pose),Latency,1.1999982738494872,1.2163843727111816
+Gamification (Face Pose),Throughput,0.8333345320506914,0.8221085558433429
+Gamification (Face Pose),Training_Time,11.263712882995604,26.46190309524536
+Drowsiness Detection,Inference_Speed,25085.55023923445,21927.5616896696
+Drowsiness Detection,Latency,3.986358642578125e-05,4.560470581054688e-05
+Drowsiness Detection,Throughput,25085.55023923445,21927.5616896696
+Drowsiness Detection,Training_Time,251.31590723991394,573.3455913066864
